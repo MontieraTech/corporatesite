@@ -1,0 +1,34 @@
+{
+	"1000_user_reviews" : {
+
+		"title" : "Top 10 AntiVirus",
+		"logo" : {
+			"img" : "./images/top10/logo.png",
+			"txt" : "1,000 USER REVIEWS"
+		},
+
+		"company_name" : "1000 User Reviews",
+		"email" : "support@topchoiceav.com",
+		"phone" : "+972-3-639-0013",
+
+		"privacy_policy" : "./pages/pp.html",
+		"terms_of_use" : "./pages/tou.html"
+	},
+
+	"truertb" : {
+		
+		"title" : "",
+		"logo" : {
+			"img" : "",
+			"txt" : ""
+		},
+
+		"company_name" : "",
+		"email" : "",
+		"phone" : "",
+
+		"privacy_policy" : "",
+		"terms_of_use" : ""
+	}
+	
+}
