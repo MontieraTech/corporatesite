@@ -15,20 +15,20 @@
 		"terms_of_use" : "./pages/tou.html"
 	},
 
-	"truertb" : {
+	"rtbig.com" : {
 		
-		"title" : "",
+		"title" : "RTBig",
 		"logo" : {
-			"img" : "",
-			"txt" : ""
+			"img" : "./images/pxl.png",
+			"txt" : "RTBig Technologies"
 		},
 
-		"company_name" : "",
-		"email" : "",
-		"phone" : "",
+		"company_name" : "RTBig",
+		"email" : "support@rtbig.com",
+		"phone" : "+972-3-639-0013",
 
-		"privacy_policy" : "",
-		"terms_of_use" : ""
+		"privacy_policy" : "./pages/pp.html",
+		"terms_of_use" : "./pages/tou.html"
 	}
 	
 }

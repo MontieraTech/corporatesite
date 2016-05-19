@@ -12,9 +12,8 @@ router.get('/config', function(req, res, next) {
 
 	console.log(req.headers.host);
 
-	//var portal = request.headers.host;
-	
-  	res.json(config["1000_user_reviews"]);
+	var portal = req.headers.host;
+  	res.json(config["rtbig.com"]);
 });
 
 module.exports = router;

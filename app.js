@@ -56,5 +56,8 @@ app.use(function(err, req, res, next) {
   });
 });
 
+var port = process.argv[2] || 3000;
+app.listen(port); 
+console.log("server is listening on port " + port);
 
 module.exports = app;
