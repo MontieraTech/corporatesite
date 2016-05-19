@@ -12,14 +12,16 @@
 		"phone" : "+972-3-639-0013",
 
 		"privacy_policy" : "./pages/pp.html",
-		"terms_of_use" : "./pages/tou.html"
+		"terms_of_use" : "./pages/tou.html",
+
+		"url" : "1000-user-reviews.com"
 	},
 
 	"rtbig.com" : {
 		
 		"title" : "RTBig",
 		"logo" : {
-			"img" : "./images/pxl.png",
+			"img" : "",
 			"txt" : "RTBig Technologies"
 		},
 
@@ -28,7 +30,9 @@
 		"phone" : "+972-3-639-0013",
 
 		"privacy_policy" : "./pages/pp.html",
-		"terms_of_use" : "./pages/tou.html"
+		"terms_of_use" : "./pages/tou.html",
+
+		"url" : "rtbig.com"
 	}
 	
 }

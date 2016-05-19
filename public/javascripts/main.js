@@ -11,11 +11,15 @@ function loadSite(data){
 
 	document.title = data.title;
 
-	$("#logoImage").attr("src", data.logo.img);
+	if(data.logo.img){
+		$("#logoImage").attr("src", data.logo.img);
+	}
+
 	$("#logoText").html("<h3 style='margin:0;padding:10px 0 0 0'>" + data.logo.txt + "</h1>");
 
 	$(".cname").text(data.company_name);
 	$(".cmail").text(data.email);
+	$(".curl").text(data.url);
 	$(".cphone").text(data.phone);
 
 	$("#tou").attr("href", data.terms_of_use);
@@ -118,3 +122,8 @@ $(document).ready(function(){
 		},"json");
 	});
 });
+
+
+function gohome(){
+	location.href = "/index.html";
+}
