@@ -13,7 +13,8 @@ router.get('/config', function(req, res, next) {
 	console.log(req.headers.host);
 
 	var portal = req.headers.host;
-  	res.json(config["rtbig.com"]);
+	portal = portal.replace("www.", "");
+  	res.json(config[portal]);
 });
 
 module.exports = router;
