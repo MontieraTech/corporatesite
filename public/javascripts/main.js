@@ -30,7 +30,7 @@ function loadSite(data){
 $(document).ready(function(){
 
 	$.ajax({
-	  url: "http://rtbig.com/config",
+	  url: "http://" + location.host + "/config",
 	  data: {},
 	  success: function(data){
 	  	loadSite(data);

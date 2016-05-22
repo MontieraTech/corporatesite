@@ -33,6 +33,24 @@
 		"terms_of_use" : "./pages/tou.html",
 
 		"url" : "rtbig.com"
+	},
+
+	"cat-media.co" : {
+		
+		"title" : "CAT-MEDIA",
+		"logo" : {
+			"img" : "",
+			"txt" : "CAT-MEDIA Technologies"
+		},
+
+		"company_name" : "cat-media",
+		"email" : "support@cat-media.com",
+		"phone" : "+972-3-639-0013",
+
+		"privacy_policy" : "./pages/pp.html",
+		"terms_of_use" : "./pages/tou.html",
+
+		"url" : "cat-media.co"
 	}
 	
 }
