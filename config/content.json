@@ -1,14 +1,14 @@
 {
-	"1000_user_reviews" : {
+	"1000-user-reviews.com" : {
 
-		"title" : "Top 10 AntiVirus",
+		"title" : "1000 User Reviews",
 		"logo" : {
 			"img" : "./images/top10/logo.png",
 			"txt" : "1,000 USER REVIEWS"
 		},
 
-		"company_name" : "1000 User Reviews",
-		"email" : "support@topchoiceav.com",
+		"company_name" : "1,000 User Reviews",
+		"email" : "support@1000-user-reviews.com",
 		"phone" : "+972-3-639-0013",
 
 		"privacy_policy" : "./pages/pp.html",
