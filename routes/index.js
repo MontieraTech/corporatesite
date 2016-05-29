@@ -12,7 +12,7 @@ router.get('/config', function(req, res, next) {
 
 	console.log(req.headers.host);
 
-	var portal = "1000-user-reviews.com"; // req.headers.host;
+	var portal = req.headers.host;
 	portal = portal.replace("www.", "");
   	res.json(config[portal]);
 });
