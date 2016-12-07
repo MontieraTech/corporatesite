@@ -51,6 +51,26 @@
 		"terms_of_use" : "./pages/tou.html",
 
 		"url" : "cat-media.co"
+	},
+
+	"metalstring.com" : {
+
+		"title" : "METALSTRING",
+		"logo" : {
+			"img" : "./images/metalstring.jpg",
+			"txt" : "MetalString"
+		},
+
+		"company_name" : "MetalString",
+		"email" : "support@metalstring.com",
+		"phone" : "+972-3-639-0013",
+
+		"privacy_policy" : "./pages/pp.html",
+		"terms_of_use" : "./pages/tou.html",
+
+		"url" : "metalstring.com"
 	}
+
+	
 	
 }
