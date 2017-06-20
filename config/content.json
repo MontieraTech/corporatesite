@@ -69,7 +69,26 @@
 		"terms_of_use" : "./pages/tou.html",
 
 		"url" : "metalstring.com"
+	},
+
+	"neuralogi.com" : {
+
+		"title" : "Neural Logic",
+		"logo" : {
+			"img" : "./images/neuralogi.jpg",
+			"txt" : "Neural Logic"
+		},
+
+		"company_name" : "Neural Logic",
+		"email" : "support@neuralogi.com",
+		"phone" : "+972-52-6611-747",
+
+		"privacy_policy" : "./pages/pp.html",
+		"terms_of_use" : "./pages/tou.html",
+
+		"url" : "neuralogi.com"
 	}
+
 
 	
 	

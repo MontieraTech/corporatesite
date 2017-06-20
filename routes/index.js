@@ -12,7 +12,7 @@ router.get('/config', function(req, res, next) {
 
 	console.log(req.headers.host);
 
-	var portal = "metalstring.com"; // req.headers.host;
+	var portal = req.headers.host; //"metalstring.com"; // req.headers.host;
 	portal = portal.replace("www.", "");
   	res.json(config[portal]);
 });
